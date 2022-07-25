@@ -2,8 +2,8 @@
 
 As a data analysis intern, I am provided with a general store transaction dataset. I need to do the following operations.
 
-Dataset:[Pivot_Table.xlsx]([Pivot_Table.xlsx](https://github.com/MODIKULDEEP/MODIKULDEEP-ML_INTERNSHIP_TASK_1/files/9179309/Pivot_Table.xlsx)
-)
+Dataset:https://github.com/MODIKULDEEP/MODIKULDEEP-ML_INTERNSHIP_TASK_1/files/9179309/Pivot_Table.xlsx
+
 
 1. Draw a Pivot table to get the different types of outlets and their counts
 2. Draw a Pivot table to get the total sales for different outlets
