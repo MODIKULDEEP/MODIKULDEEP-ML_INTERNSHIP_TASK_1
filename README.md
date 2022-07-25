@@ -10,7 +10,7 @@ Dataset:[Pivot_Table.xlsx](https://github.com/anandmak/ML101/files/9144501/Pivot
 4. In the third Pivot table, filter out (remove) low-fat products 
 5. Add slicers for item fat and item type in the last Pivot table
 
-Result:[Excel Part 1.xlsx](Excel Part 1.xlsx)
+Result:[Excel Part 1.xlsx](https://github.com/MODIKULDEEP/MODIKULDEEP-ML_INTERNSHIP_TASK_1/blob/main/Excel%20Part%201.xlsx)
 
 > Part 2
 
